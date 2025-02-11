@@ -1,0 +1,33 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and local environment files
+*.log
+.env
+
+# Dependency and build files
+pip-log.txt
+dist/
+build/
+*.egg-info/
+
+# MacOS files
+.DS_Store
+
+# Pytest cache
+.pytest_cache/
+
+# Excel files (if generated dynamically)
+*.xlsx
